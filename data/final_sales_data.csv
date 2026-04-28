@@ -1,0 +1,21 @@
+order_id,customer_name,product,category,quantity,unit_price,order_date,region,total_sales,payment_method,notes
+ORD-001,Lebo Mokoena,Laptop,Electronics,1,8500,2026-01-05,Gauteng,8500,Card,Paid
+ORD-002,Thabo Dlamini,Mouse,Electronics,2,150,05/01/2026,Gauteng,300,Cash,paid
+ORD-003,Aisha Khan,Office Chair,Furniture,1,1200,2026/01/07,Western Cape,1200,EFT,
+ORD-004,Nomsa Nkosi,Desk,Furniture,0,2500,2026-01-08,Kwazulu-Natal,0,Card,Missing quantity
+ORD-005,Peter Smith,Notebook,Stationery,10,35,2026-01-09,Eastern Cape,350,Cash,Paid
+ORD-006,Mary Johnson,Pen Pack,Stationery,5,45,Jan 10 2026,Free State,225,EFT,Paid
+ORD-007,Sipho Molefe,Monitor,Electronics,1,3200,2026-01-11,Gauteng,3200,Card,Wrong total
+ORD-008,Karabo Maseko,Laptop,Electronics,1,8500,2026-01-12,Limpopo,8500,Card,Paid
+ORD-009,Lerato Naidoo,Desk,Furniture,2,2500,2026-01-13,Mpumalanga,5000,EFT,Paid
+ORD-010,John Brown,Office Chair,Furniture,1,1200,13-01-2026,North West,1200,Cash,Paid
+ORD-011,Zanele Sithole,Printer,Electronics,1,2300,2026-01-15,Northern Cape,2300,Card,Paid
+ORD-012,Brian Adams,Notebook,Stationery,20,35,2026-01-16,Western Cape,700,Cash,Paid
+ORD-013,Naledi Jacobs,Pen Pack,Stationery,3,45,2026-01-17,Gauteng,135,EFT,Paid
+ORD-014,Michael Lee,Monitor,Electronics,2,3200,2026-01-18,Gauteng,6400,Card,Paid
+ORD-015,unknown,Laptop,Electronics,1,8500,2026-01-19,Kwazulu-Natal,8500,Card,Missing customer
+ORD-016,Busisiwe Radebe,Desk,Furniture,1,2500,2026-01-20,Free State,2500,EFT,Paid
+ORD-017,Sam Wilson,Mouse,Electronics,4,150,2026-01-21,Eastern Cape,600,Cash,Paid
+ORD-018,Mpho Baloyi,Printer,Electronics,1,2300,2026-01-22,Limpopo,2300,Card,Paid
+ORD-019,Fatima Patel,Notebook,Stationery,15,35,2026-01-23,Mpumalanga,525,Cash,Paid
+ORD-020,Chris Martin,Pen Pack,Stationery,8,45,2026-01-24,North West,360,EFT,Paid
